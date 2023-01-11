@@ -1,6 +1,6 @@
 import re
-from anki.utils import version_with_build, point_version
-from aqt import mw, gui_hooks, QObject, QEvent, QShortcut, QKeySequence, QKeyCombination, qconnect, Qt, QKeyEvent, addcards, browser
+from anki.utils import version_with_build
+from aqt import mw, gui_hooks, QObject, QEvent, QShortcut, QKeySequence, QKeyCombination, qconnect, Qt
 
 SHORTCUT = "Shortcut"
 
